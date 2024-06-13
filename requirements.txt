@@ -47,3 +47,5 @@ bqplot
 # Models for EEEN30131
 numpy==1.23.5
 ipympl==0.9.3
+control==0.9.4
+
